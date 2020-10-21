@@ -4,7 +4,7 @@ time /T >> C:\Users\Administrator\Transforms\TestPCL2AFP\Log\win\regr.log
 
 
 set TTDIR=c:\TESTTOOLS\
-set MASTERDIR=e:\MasterFiles\PS\
+set MASTERDIR=e:\MasterFiles\POSTSCRIPT\
 set CMPDIR=E:\OutputTransformPS2AFP\win\output\out_TIFF\
 
 echo running tiffcompare >> regr.log
