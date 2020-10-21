@@ -23,8 +23,8 @@ ECHO File extention is **************: fileextension=%%~xi
 
 echo ================================================
 
-echo Copy.... e:\OutputTransformPDF2AFP_CPSI\win\output\output_PDF\TestFiles\PDF\*.tif E:\OutputTransformPS2AFP\win\output\out_TIFF\MasterFiles\PDF\
-xcopy /y /s /d  e:\OutputTransformPDF2AFP_CPSI\win\output\output_PDF\TestFiles\PDF\*.tif E:\OutputTransformPS2AFP\win\output\out_TIFF\MasterFiles\PDF\ >> C:\Users\Administrator\Transforms\TestPS2AFP\Log\win\all_PDF2TIFF_itm-driveraaaa.log 2>&1
+echo Copy.... e:\OutputTransformPS2AFP\win\output\output_PDF\TestFiles\PDF\*.tif E:\OutputTransformPS2AFP\win\output\out_TIFF\MasterFiles\PDF\
+xcopy /y /s /d  e:\OutputTransformPS2AFP\win\output\output_PDF\TestFiles\PDF\*.tif E:\OutputTransformPS2AFP\win\output\out_TIFF\MasterFiles\PDF\ >> C:\Users\Administrator\Transforms\TestPS2AFP\Log\win\all_PDF2TIFF_itm-driveraaaa.log 2>&1
 
 
 echo EXIT
